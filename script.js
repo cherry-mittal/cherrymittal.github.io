@@ -70,10 +70,10 @@ themeButton.addEventListener("click", themeBtn);
 
 //function to set up and start the terminal
 async function openTerminal() {
-    await createText("Welcome to the Terminal");
-    await delay(500);
-    await createText("Starting up...");
-    await delay(800);
+    await createText("Hey, hey! Welcome to Cherry's Terminal");
+    await delay(200);
+    await createText("Need help? Just press Enter and we'll pretend to know what we are doing. &#x1F604;");
+    await delay(200);
     await createText("You can now interact with the Terminal");
     await createCode("Type help", "for a list of commands");
     await delay(500);
