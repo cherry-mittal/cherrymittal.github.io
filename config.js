@@ -99,7 +99,7 @@ const config = {
         }
     ],
     "terminal": {
-        "user": "$Sidharth_Sethi",
+        "user": "$Cherry_mittal",
         "host": "sudo",
         "path": "~/guest"
     },
@@ -121,11 +121,11 @@ const config = {
     "social": [
         {
             "title": "Github",
-            "link": "https://github.com/techspiritss"
+            "link": "https://github.com/cherry-mittal"
         },
         {
             "title": "LinkedIn",
-            "link": "https://www.linkedin.com/in/sidharthsethiss",
+            "link": "https://www.linkedin.com/in/cherry-mittal/",
             "connections": "500+"
         },
         {
@@ -187,16 +187,16 @@ const config = {
         }
     ],
     "contact": {
-        "email": "techspiritss@duck.com"
+        "email": "cherrmittal@gmail.com"
     },
     "experience": [
         {
-            "title": "SDE Intern at Quaterstack Technologies",
-            "description": "▪️ Improved performance and maintainability of client-team management application, Redwing, through refactoring of static code into dynamic function calls and reduction of team page code by 70%. \n ▪️ Identified and fixed drag event bug in Nodle Project that caused dramatic increase in CPU utilization (from 7% to 73% with a single mouse drag on flowchart area). \n ▪️ Resolved complex SVG scaling issue in Anatomy-Mapper Project, ensuring accuracy and reliability of visualization."
+            "title": "Software Developer at Teksystems",
+            "description": "▪️ Improved nt application, Redwing, through refactorand reduction of team page code by 70%. \n ▪️ Identified and fixed drag event bug in Nodle Project that caused dramatic increase in CPU utilization (from 7% to 73% with a single mouse drag on flowchart area). \n ▪️ Resolved complex SVG scaling issue in Anatomy-Mapper Project, ensuring accuracy and reliability of visualization."
         },
         {
-            "title": "React Developer at EQ Soft Solutions",
-            "description": "▪️ Acquired a strong foundation in ReactJS, including in-depth knowledge of key concepts such as routing, reducer, and Axios. \n ▪️ Demonstrated the ability to effectively apply ReactJS principles and techniques in projects and assignments. \n ▪️ Developed a solid understanding of the ReactJS ecosystem, including popular libraries and tools. \n ▪️ Demonstrated adaptability and a willingness to continuously learn and stay up-to-date with developments in the ReactJS field."
+            "title": "Senior Software Engineer at UnitedHealth Group (Optum)",
+            "description": "▪️ Acquired a strong foundation in Reancepts such as routing, reducer, and Axios. \n ▪️ Demonstrated the ability to effectively apply ReactJS principles and techniques in projects and assignments. \n ▪️ Developed a solid understanding of the ReactJS ecosystem, including popular libraries and tools. \n ▪️ Demonstrated adaptability and a willingness to continuously learn and stay up-to-date with developments in the ReactJS field."
         }
     ],
     "skills": [
@@ -210,9 +210,9 @@ const config = {
         }
     ],
     "neofetch": {
-        "name": "Sidharth Sethi",
-        "title": "MERN Developer",
-        "skills": "Frontend, Backend, Cloud",
+        "name": "Cherry Mittal",
+        "title": "Machine Learning Engineer",
+        "skills": "Machine Learning Models, Salesforce",
         "shell": "zsh",
         "languages": "Javascript, C++, HTML/CSS, SQL"
     },
