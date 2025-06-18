@@ -74,7 +74,7 @@ async function openTerminal() {
     await delay(200);
     await createText("Need help? Just press Enter and we’ll pretend to know what we’re doing. 🤫✨");
     await delay(200);
-    await createText("You can now interact with the Terminal");
+    //await createText("You can now interact with the Terminal");
     await createCode("Type help", "for a list of commands");
     await delay(500);
     new_line();
